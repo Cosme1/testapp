@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c67e09165a7848ff2b4ffec07ddc13a0885d919500c17d78e652b643b0fcf422"
+build_start_time: [1671376502, 75148105]
+build_end_time: [1671376509, 211947917]
+inputs:
+  "/Users/cosme/testapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1671376490, 510613441]
+  "/Users/cosme/testapp/macos/Runner/AppDelegate.swift": [1667381276, 0]
+  "/Users/cosme/testapp/macos/Runner/MainFlutterWindow.swift": [1667381276, 0]
